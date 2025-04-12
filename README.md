@@ -8,7 +8,7 @@ Este projeto faz parte da avaliação final do curso de Engenharia de Machine Le
 ## **Questão 1: 
 A solução criada nesse projeto deve ser disponibilizada em repositório git e disponibilizada em servidor de repositórios (Github (recomendado), Bitbucket ou Gitlab). O projeto deve obedecer o Framework TDSP da Microsoft (estrutura de arquivos, arquivo requirements.txt e arquivo README - com as respostas pedidas nesse projeto, além de outras informações pertinentes). Todos os artefatos produzidos deverão conter informações referentes a esse projeto (não serão aceitos documentos vazios ou fora de contexto). Escreva o link para seu repositório.
 
-Repositório GitHub: [https://github.com/seu-usuario/nome-do-repo](https://github.com/seu-usuario/nome-do-repo)
+Repositório GitHub: [https://github.com/alberto-alvarenga/pd-25E1_3](https://github.com/alberto-alvarenga/pd-25E1_3)
 
 ## **Questão 2: 
 Iremos desenvolver um preditor de arremessos usando duas abordagens (regressão e classificação) para prever se o "Black Mamba" (apelido de Kobe) acertou ou errou a cesta.
