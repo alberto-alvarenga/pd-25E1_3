@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # **PD Engenharia de Machine Learning [25E1_3] :: Professor Felipe Fink Grael :: 03/04.2025**
 
 ## **Desafio**
@@ -180,3 +181,6 @@ Para fins de entrega, o resultado visual foi salvo em `/Docs/Dash Streamlit.pdf`
 ## **Conclusão
 
 Este projeto permitiu aplicar, de forma prática, todos os conceitos abordados ao longo da disciplina de Engenharia de Machine Learning — desde a preparação de dados até o deploy e monitoramento em produção. Ainda que o modelo em produção não tenha alcançado o desempenho esperado na classe positiva, a análise crítica realizada demonstrou a importância do monitoramento contínuo e da reavaliação de variáveis e limiares de decisão. O aprendizado mais valioso foi compreender que engenharia de ML vai muito além de métricas — envolve garantir robustez, rastreabilidade e adaptabilidade em ambientes reais.
+=======
+# pd-25E1_3
+>>>>>>> 7c6f22b752269f484aeaa62114c8e9d4b8011a81
