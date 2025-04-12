@@ -1,0 +1,33 @@
+ipython>=8.10
+jupyterlab>=3.0
+kedro-datasets>=3.0
+kedro-viz>=6.7.0
+kedro[jupyter]~=0.19.12
+notebook
+scikit-learn~=1.5.1
+setuptools; python_version >= "3.12"
+
+# Core
+pandas==1.5.3
+numpy==1.23.5
+scikit-learn==1.1.3
+matplotlib
+seaborn
+
+# Parquet support
+pyarrow==11.0.0
+
+# AutoML
+pycaret==3.2.0
+
+# MLOps & Experiment Tracking
+mlflow==2.2.2
+
+# Web app / dashboard
+streamlit==1.25.0
+
+# Jupyter (opcional)
+ipython
+ipykernel
+jupyterlab
+notebook
